@@ -1,4 +1,4 @@
 # knative-github-event
 
-var a = 1
+var a = 2
 - daily/1.0.0
